@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Views.AppsDev/1.0.0": {
+        "runtime": {
+          "Views.AppsDev.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Views.AppsDev/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
