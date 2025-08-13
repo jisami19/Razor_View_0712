@@ -20,3 +20,17 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.about-me {
+    font-size: 20pt;
+    color: green;
+}
+
+form {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14pt;
+}
+
+.form-label {
+    color: purple;
+}
